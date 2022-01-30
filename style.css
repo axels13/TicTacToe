@@ -1,0 +1,15 @@
+button {
+  width: 200px;
+  height:200px;
+  background-color: #222;
+}
+
+h1{
+  text-align: center;
+}
+.container{
+  display: grid;
+  width: 600px;
+  grid-template-columns: repeat(3,1fr);
+  margin: auto;
+}
